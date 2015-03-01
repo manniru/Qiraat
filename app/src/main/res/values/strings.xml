@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qiraat</string>
+    <color name="gray">#808080</color>
+    <color name="blue">#FFFFFF</color>
+    <color name="green">#f0f0</color>
+    <color name="paleYellow">#f0f0</color>
+    <color name="brown">#552D00</color>
+    <color name="black">#000000</color>
+</resources>
